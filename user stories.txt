@@ -1,0 +1,8 @@
+As a <reciver>, I want to <request for the item by filling a form> so that I can <display information about me and why i want that item>
+As a <reciver>, I want to <send a thank u note> so that I can <thank the person who sent the item>
+As a <reciver>, I want to <recive a notification> so that I can <know that someon is sending me the item>
+As a <reciver>, I want to <confirm that i recived the item> so that I can <tell it to the donner>
+As a <donor>, I want to <see the active item list of the person> so that I can <why he is requesting the item>
+As a <donor>, I want to <look at the form filled by the reciver> so that I can <send him the item>
+As a <donor>, I want to <send an update to the user> so that I can <tell the user that his wish has been fulfilled>
+As a <donor>, I want to <bee notified> so that I can <Know the item has reached>
